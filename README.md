@@ -37,7 +37,7 @@
       - User profiles displaying stats (wins/losses)
       - Match History including 1v1 games, dates, and detailed records
       - Major module: Implementing Remote Authentication
-     * We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
+       - We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
 
 🎮 Gameplay and User Experience
   - Major module: Multiplayers (more than 2 in the same game)
