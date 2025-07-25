@@ -1,4 +1,6 @@
-# ft_transcendences
+# ft_transcendence 🏓
+
+# 📋 Implemented Modules
 
 - 🔧 Web
   -  Major module: Use a Framework as Backend
@@ -8,12 +10,24 @@
   -  Minor module: Use a Database for the Backend
       * We used PostgreSQL for storing user accounts, game history, stats, and game records.
 ![1](https://github.com/fasl8/ft_transcendences/blob/main/photo/1.homepage.png)
+
+
+
+
+
 - 👥 User Management
   -  Major module: Standard User Management, Authentication, Game Records
-     * Users can register, log in securely, upload avatars, manage profiles, view game records and match history, and add friends. The system includes display name selection, profile stats, and player connections.
+      - Users can subscribe to the website securely
   ![2](https://github.com/fasl8/ft_transcendences/blob/main/photo/4.signup.jpeg)
   ![3](https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png)
-  - Major module: Implementing Remote Authentication
+      - Registered users can log in with secure authentication
+      - Users can select unique display names for tournaments
+      - Profile management with information updates
+      - Avatar upload system with default options
+      - Friend system with online status visibility
+      - User profiles displaying stats (wins/losses)
+      - Match History including 1v1 games, dates, and detailed records
+      - Major module: Implementing Remote Authentication
      * We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
 
 🎮 Gameplay and User Experience
