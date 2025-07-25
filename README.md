@@ -25,6 +25,7 @@
 </div>
 
       - Registered users can log in with secure authentication
+  
 <div align="center">
   <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Homepage" width="600"/>
 </div>
