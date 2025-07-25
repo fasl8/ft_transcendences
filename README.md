@@ -25,7 +25,7 @@
 </div>
       - Registered users can log in with secure authentication
               <div align="center">
-  <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.pn" alt="Homepage" width="600"/>
+  <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Homepage" width="600"/>
 </div>
       - Users can select unique display names for tournaments
       - Profile management with information updates
