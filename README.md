@@ -9,7 +9,9 @@
       * The frontend was styled using Bootstrap and custom CSS for layout, responsiveness, and interface components. No advanced frontend frameworks were used.
   -  Minor module: Use a Database for the Backend
       * We used PostgreSQL for storing user accounts, game history, stats, and game records.
-![1](https://github.com/fasl8/ft_transcendences/blob/main/photo/1.homepage.png)
+<div align="center">
+  <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/1.homepage.png" alt="Homepage" width="600"/>
+</div>
 
 
 
@@ -19,8 +21,8 @@
   -  Major module: Standard User Management, Authentication, Game Records
       - Users can subscribe to the website securely
   ![2](https://github.com/fasl8/ft_transcendences/blob/main/photo/4.signup.jpeg)
-  ![3](https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png)
       - Registered users can log in with secure authentication
+  ![3](https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png)
       - Users can select unique display names for tournaments
       - Profile management with information updates
       - Avatar upload system with default options
