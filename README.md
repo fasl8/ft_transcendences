@@ -29,6 +29,9 @@
 
       - Users can select unique display names for tournaments
       - Profile management with information updates
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/8.setting.png" alt="setting" width="600"/>
+          </div>
       - Avatar upload system with default options
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/18.profilewfms.png" alt="Profilewfms" width="600"/>
@@ -36,6 +39,9 @@
       - Friend system
       - User profiles displaying stats (wins/losses)
       - Match History including 1v1 games, dates, and detailed records
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/32.fullpagedash.png" alt="Dashboard" width="600"/>
+          </div>        
       - Major module: Implementing Remote Authentication
        - We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
 
