@@ -1,14 +1,3 @@
-# ft_transcendence 🏓
-
-A modern, multiplayer Pong game platform built with microservices architecture, featuring innovative 6-player circular gameplay, AI opponents, and comprehensive user management.
-
-![Homepage](https://github.com/fasl8/ft_transcendences/blob/main/photo/1.homepage.png)
-
-## 🚀 Project Overview
-
-Thanks to this website, users can play Pong with others through a nice user interface and real-time multiplayer online games! This project implements a comprehensive Pong platform with advanced features including 6-player gameplay, AI opponents, secure authentication, and microservices architecture.
-
-## 📋 Implemented Modules
 
 ### 🔧 Web Modules
 - **Major module: Use a Framework as Backend**
@@ -31,8 +20,6 @@ Thanks to this website, users can play Pong with others through a nice user inte
   - User profiles displaying stats (wins/losses)
   - Match History including 1v1 games, dates, and detailed records
 
-![Sign Up](https://github.com/fasl8/ft_transcendences/blob/main/photo/4.signup.jpeg)
-![Sign In](https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png)
 
 - **Major module: Implementing Remote Authentication**
   - **OAuth 2.0 authentication with 42** integrated
@@ -151,24 +138,6 @@ open https://localhost
 - JWT token-based session security
 - Two-factor authentication via email OTP
 
-## 📊 Module Requirements Met
-
-### Major Modules (7 completed - Meeting 100% requirement)
-✅ Use a Framework as Backend (Django)  
-✅ Standard User Management, Authentication, Users Across Tournaments  
-✅ Implementing Remote Authentication (OAuth 2.0 with 42)  
-✅ Multiplayers (6-player circular Pong)  
-✅ Introduce an AI Opponent  
-✅ Implement Two-Factor Authentication (2FA) and JWT  
-✅ Designing the Backend as Microservices  
-
-### Minor Modules (3 completed)
-✅ Use a Front-End Framework or Toolkit (Bootstrap)  
-✅ Use a Database for the Backend (PostgreSQL)  
-✅ User and Game Stats Dashboards  
-
-**Total Module Points**: 7 Major Modules + 3 Minor Modules = **100% Project Completion**
-
 ## 🔒 Security Implementation
 
 - **Password Security**: All passwords hashed using strong algorithms
@@ -178,16 +147,4 @@ open https://localhost
 - **Session Security**: JWT tokens with proper expiration and validation
 - **Two-Factor Authentication**: Email-based OTP for additional security layer
 
-## 🤝 Contributing
 
-This project follows 42 School guidelines and standards. All implementation decisions are justified and documented for evaluation purposes.
-
-## 📝 License
-
-This project is part of the 42 School curriculum and adheres to the school's academic policies.
-
----
-
-**Built according to ft_transcendence subject requirements v14.2**
-
-*A comprehensive Pong platform showcasing microservices architecture, advanced gameplay mechanics, and enterprise-grade security.*
