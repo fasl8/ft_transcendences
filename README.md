@@ -16,12 +16,12 @@
 
 ## 👥 User Management
 - **Major module: Standard User Management, Authentication, Users Across Tournaments**
-      - Users can subscribe to the website securely
+     - Users can subscribe to the website securely
           <div align="center">
               <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/4.signup.jpeg" alt="Homepage" width="600"/>
           </div>
 
-      - Registered users can log in with secure authentication
+     - Registered users can log in with secure authentication
   
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Signin" width="600"/>
@@ -29,16 +29,21 @@
 
       - Users can select unique display names for tournaments
       - Profile management with information updates
+
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/8.setting.png" alt="setting" width="600"/>
           </div>
+  
       - Avatar upload system with default options
+  
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/18.profilewfms.png" alt="Profilewfms" width="600"/>
           </div>
+  
       - Friend system
       - User profiles displaying stats (wins/losses)
       - Match History including 1v1 games, dates, and detailed records
+  
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/32.fullpagedash.png" alt="Dashboard" width="600"/>
           </div>
