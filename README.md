@@ -24,13 +24,16 @@
       - Registered users can log in with secure authentication
   
           <div align="center">
-            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Homepage" width="600"/>
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Signin" width="600"/>
           </div>
 
       - Users can select unique display names for tournaments
       - Profile management with information updates
       - Avatar upload system with default options
-      - Friend system with online status visibility
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/18.profilewfms.png" alt="Profilewfms" width="600"/>
+          </div>
+      - Friend system
       - User profiles displaying stats (wins/losses)
       - Match History including 1v1 games, dates, and detailed records
       - Major module: Implementing Remote Authentication
@@ -50,7 +53,9 @@
 🔐 Cybersecurity
   - Major Module: Implement Two-Factor Authentication (2FA) and JWT
     - We implemented 2FA via email-based OTP for secure login and JWT tokens to manage user sessions securely. All user inputs are validated, and HTTPS is enforced to ensure secure communication across the entire website.
-
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/28.code.png" alt="2FA" width="600"/>
+          </div>
 
 ⚙️ DevOps
   - Major module: Designing the Backend as Microservices
