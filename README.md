@@ -4,11 +4,11 @@
 
 ##  🔧 Web
 - **Major module: Use a Framework as Backend**
-      * We used Django as our backend framework to structure the server-side logic, manage users and games, and organize routing and backend views.
+       - We used Django as our backend framework to structure the server-side logic, manage users and games, and organize routing and backend views.
 - **Minor module: Use a Front-End Framework or Toolkit**
-      * The frontend was styled using Bootstrap and custom CSS for layout, responsiveness, and interface components. No advanced frontend frameworks were used.
+       - The frontend was styled using Bootstrap and custom CSS for layout, responsiveness, and interface components. No advanced frontend frameworks were used.
 - **Minor module: Use a Database for the Backend**
-      * We used PostgreSQL for storing user accounts, game history, stats, and game records.
+       - We used PostgreSQL for storing user accounts, game history, stats, and game records.
 <div align="center">
   <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/1.homepage.png" alt="Homepage" width="600"/>
 </div>
@@ -27,22 +27,22 @@
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Signin" width="600"/>
           </div>
 
-      - Users can select unique display names for tournaments
-      - Profile management with information updates
+     - Users can select unique display names for tournaments
+     - Profile management with information updates
 
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/8.setting.png" alt="setting" width="600"/>
           </div>
   
-      - Avatar upload system with default options
+     - Avatar upload system with default options
   
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/18.profilewfms.png" alt="Profilewfms" width="600"/>
           </div>
   
-      - Friend system
-      - User profiles displaying stats (wins/losses)
-      - Match History including 1v1 games, dates, and detailed records
+     - Friend system
+     - User profiles displaying stats (wins/losses)
+     - Match History including 1v1 games, dates, and detailed records
   
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/32.fullpagedash.png" alt="Dashboard" width="600"/>
