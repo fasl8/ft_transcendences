@@ -86,3 +86,11 @@
           </div>
   - Minor module: Server-Side Rendering (SSR) Integration
     - Parts of the app are rendered server-side using Django templates to support SEO and improve performance on slower networks.
+
+## 🤝 Contributing
+
+This project follows 42 School guidelines and standards. All implementation decisions are justified and documented for evaluation purposes.
+
+## 📝 License
+
+This project is part of the 42 School curriculum and adheres to the school's academic policies.
