@@ -4,11 +4,11 @@
 
 ##  🔧 Web
 - **Major module: Use a Framework as Backend**
-       - We used Django as our backend framework to structure the server-side logic, manage users and games, and organize routing and backend views.
+        - We used Django as our backend framework to structure the server-side logic, manage users and games, and organize routing and backend views.
 - **Minor module: Use a Front-End Framework or Toolkit**
-       - The frontend was styled using Bootstrap and custom CSS for layout, responsiveness, and interface components. No advanced frontend frameworks were used.
+        - The frontend was styled using Bootstrap and custom CSS for layout, responsiveness, and interface components. No advanced frontend frameworks were used.
 - **Minor module: Use a Database for the Backend**
-       - We used PostgreSQL for storing user accounts, game history, stats, and game records.
+        - We used PostgreSQL for storing user accounts, game history, stats, and game records.
 <div align="center">
   <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/1.homepage.png" alt="Homepage" width="600"/>
 </div>
@@ -49,7 +49,7 @@
           </div>
      
 - **Major module: Implementing Remote Authentication**
-       - We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
+     - We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
 
 ## 🎮 Gameplay and User Experience
 - **Major module: Multiplayers (more than 2 in the same game)**
