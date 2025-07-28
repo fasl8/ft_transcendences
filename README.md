@@ -42,7 +42,7 @@
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/32.fullpagedash.png" alt="Dashboard" width="600"/>
           </div>        
-      - Major module: Implementing Remote Authentication
+  - Major module: Implementing Remote Authentication
        - We implemented OAuth2 login with 42 intra, allowing students to sign in securely using their 42Account.
 
 ## 🎮 Gameplay and User Experience
