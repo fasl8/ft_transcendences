@@ -90,6 +90,8 @@
 ## 🤝 Contributing
 
 This project follows 42 School guidelines and standards. All implementation decisions are justified and documented for evaluation purposes.
+**Built according to ft_transcendence subject requirements v14.2**
+
 
 ## 📝 License
 
