@@ -54,6 +54,12 @@
   - Major Module: Implement Two-Factor Authentication (2FA) and JWT
     - We implemented 2FA via email-based OTP for secure login and JWT tokens to manage user sessions securely. All user inputs are validated, and HTTPS is enforced to ensure secure communication across the entire website.
           <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/9.enable2fa.png" alt="enable2fa" width="600"/>
+          </div>
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/29.disable2fa.png" alt="disable2fa" width="600"/>
+          </div>
+          <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/28.code.png" alt="2FA" width="600"/>
           </div>
 
@@ -65,3 +71,12 @@
         - home – serves the landing page and general website content
   - All services are containerized using Docker, and we use Docker Compose to orchestrate and run the entire system with a single command.
   - We configured NGINX as a reverse proxy to route traffic securely to each service and enforce HTTPS across the entire platform. NGINX also manages caching and performance optimizations between containers.
+
+## 🌍 Accessibility
+  - Minor module: Multiple Language Support
+    - We implemented a dynamic language switcher supporting English and Arabic, with translated labels, buttons, and user content using JavaScript localization.
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/7.language.png" alt="language" width="600"/>
+          </div>
+  - Minor module: Server-Side Rendering (SSR) Integration
+    - Parts of the app are rendered server-side using Django templates to support SEO and improve performance on slower networks.
