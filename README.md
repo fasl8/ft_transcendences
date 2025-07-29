@@ -84,6 +84,7 @@
 <div align="center">
        <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/20.menu.png" alt="menu" width="600"/>
      </div>
+     
 - **Major module: Multiplayers (more than 2 in the same game)**
     - Our platform supports a 6-player Pong game played in real time on a circular arena. Each player controls a paddle positioned along the edge of the circle. The ball bounces within the circular space, requiring players to anticipate angles and coordinate in a competitive, fast-paced environment. This setup adds a unique and dynamic twist to the classic Pong gameplay.
 
