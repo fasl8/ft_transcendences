@@ -28,10 +28,22 @@
           </div>
 
      - Users can select unique display names for tournaments
+ 
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/10.nickname.png" alt="nickname" width="600"/>
+          </div>   
+
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/27.tournament.png" alt="tournament" width="600"/>
+          </div>           
      - Profile management with information updates
 
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/8.setting.png" alt="setting" width="600"/>
+          </div>
+
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/11.password.png" alt="password" width="600"/>
           </div>
   
      - Avatar upload system with default options
@@ -41,6 +53,14 @@
           </div>
   
      - Friend system
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/30.friendaccess.png" alt="friend1" width="600"/>
+          </div>
+
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/31.friendaccess.png" alt="friend2" width="600"/>
+          </div>
+          
      - User profiles displaying stats (wins/losses)
      - Match History including 1v1 games, dates, and detailed records
   
@@ -52,9 +72,21 @@
 - **Major module: Multiplayers (more than 2 in the same game)**
     - Our platform supports a 6-player Pong game played in real time on a circular arena. Each player controls a paddle positioned along the edge of the circle. The ball bounces within the circular space, requiring players to anticipate angles and coordinate in a competitive, fast-paced environment. This setup adds a unique and dynamic twist to the classic Pong gameplay.
 
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/26.multboard.png" alt="multboard" width="600"/>
+          </div>
+            
 ## 🤖 AI & Algorithm
 - **Major module: Introduce an AI Opponent**
     - A custom AI opponent was developed using reactive logic to simulate human gameplay. The AI refreshes its view of the game once per second, anticipates ball movement, and can win against real players. The AI plays fairly, with the same speed and rules as human players.
+
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/21.ai.png" width="600"/>
+          </div>
+
+          <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/25.pingpong.png" width="600"/>
+          </div> 
 - **Minor module: User and Game Stats Dashboards**
     - We created detailed dashboards: showing win/loss stats, match history, Performance history over time, and game records(Scores from games, Game type, Date and time of each match).These dashboards use simple visual elements and charts to give users clear insight into their gameplay activity..
           <div align="center">
