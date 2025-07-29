@@ -18,6 +18,7 @@
 <div align="center">
   <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/6.gamehub.png" alt="gamehub" width="600"/>
 </div>
+
 - **Major module: Standard User Management, Authentication, Users Across Tournaments**
      - Users can subscribe to the website securely
           <div align="center">
@@ -25,7 +26,7 @@
           </div>
 
      - Registered users can log in with secure authentication
-  
+
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/5.signin.png" alt="Signin" width="600"/>
           </div>
