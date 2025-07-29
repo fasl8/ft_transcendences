@@ -45,6 +45,14 @@
           <div align="center">
             <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/11.password.png" alt="password" width="600"/>
           </div>
+
+           <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/33.delet.png" alt="delet1" width="600"/>
+          </div> 
+
+           <div align="center">
+            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/12.delet.png" alt="delet2" width="600"/>
+          </div> 
   
      - Avatar upload system with default options
   
