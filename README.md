@@ -72,21 +72,21 @@
 - **Major module: Multiplayers (more than 2 in the same game)**
     - Our platform supports a 6-player Pong game played in real time on a circular arena. Each player controls a paddle positioned along the edge of the circle. The ball bounces within the circular space, requiring players to anticipate angles and coordinate in a competitive, fast-paced environment. This setup adds a unique and dynamic twist to the classic Pong gameplay.
 
-          <div align="center">
-            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/26.multboard.png" alt="multboard" width="600"/>
-          </div>
+     <div align="center">
+       <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/26.multboard.png" alt="multboard" width="600"/>
+     </div>
             
 ## 🤖 AI & Algorithm
 - **Major module: Introduce an AI Opponent**
     - A custom AI opponent was developed using reactive logic to simulate human gameplay. The AI refreshes its view of the game once per second, anticipates ball movement, and can win against real players. The AI plays fairly, with the same speed and rules as human players.
 
-          <div align="center">
-            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/21.ai.png" width="600"/>
-          </div>
+     <div align="center">
+       <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/21.ai.png" width="600"/>
+     </div>
 
-          <div align="center">
-            <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/25.pingpong.png" width="600"/>
-          </div> 
+     <div align="center">
+       <img src="https://github.com/fasl8/ft_transcendences/blob/main/photo/25.pingpong.png" width="600"/>
+     </div> 
 - **Minor module: User and Game Stats Dashboards**
     - We created detailed dashboards: showing win/loss stats, match history, Performance history over time, and game records(Scores from games, Game type, Date and time of each match).These dashboards use simple visual elements and charts to give users clear insight into their gameplay activity..
           <div align="center">
