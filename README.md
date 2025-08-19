@@ -156,10 +156,10 @@
 
 ## 👥 Team Members
 
-- [GitHub](https://github.com/wadha655)  
-- [GitHub](https://github.com/Saalamoo)  
-- [GitHub](https://github.com/malmessa42)  
-- [GitHub](https://github.com/fasl8)
+- [W](https://github.com/wadha655)  
+- [F](https://github.com/fasl8)
+- [M](https://github.com/malmessa42)  
+- [S](https://github.com/Saalamoo)  
 
 ## 🤝 Contributing
 
