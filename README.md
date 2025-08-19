@@ -156,10 +156,10 @@
 
 ## 🤝 Contributing
 
-This project follows 42 School guidelines and standards. All implementation decisions are justified and documented for evaluation purposes.
+This project follows 42 University guidelines and standards. All implementation decisions are justified and documented for evaluation purposes.
 **Built according to ft_transcendence subject requirements v14.2**
 
 
 ## 📝 License
 
-This project is part of the 42 School curriculum and adheres to the school's academic policies.
+This project is part of the 42 University curriculum and adheres to the university academic policies.
