@@ -154,6 +154,13 @@
 - **Minor module: Server-Side Rendering (SSR) Integration**
     - Parts of the app are rendered server-side using Django templates to support SEO and improve performance on slower networks.
 
+## 👥 Team Members
+
+- [GitHub](https://github.com/wadha655)  
+- [GitHub](https://github.com/Saalamoo)  
+- [GitHub](https://github.com/malmessa42)  
+- [GitHub](https://github.com/fasl8)
+
 ## 🤝 Contributing
 
 This project follows 42 University guidelines and standards. All implementation decisions are justified and documented for evaluation purposes.
